@@ -1,2 +1,7 @@
 Debug/
 Release/
+**/*.err
+Tutorial.wdb
+Tutorial.wed
+
+

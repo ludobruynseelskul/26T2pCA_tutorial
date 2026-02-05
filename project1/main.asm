@@ -39,7 +39,7 @@ clear_ram1.l
 	cpw X,#ram1_end	
 	jrule clear_ram1
 	#endif
-
+	
 	; clear stack
 stack_start.w EQU $stack_segment_start
 stack_end.w EQU $stack_segment_end
