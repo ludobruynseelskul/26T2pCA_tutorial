@@ -57,7 +57,7 @@ clear_stack.l
 	rim
 	LUDO
 infinite_loop.l
-	wfi
+	;wfi
 	ld a, tenths
 	cp a, #9
 	jrne infinite_loop
