@@ -3,5 +3,7 @@ Release/
 **/*.err
 Tutorial.wdb
 Tutorial.wed
+**/checkres.spy
+
 
 
