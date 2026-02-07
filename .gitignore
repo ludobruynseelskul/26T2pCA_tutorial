@@ -4,6 +4,7 @@ Release/
 Tutorial.wdb
 Tutorial.wed
 **/checkres.spy
+**/*.dep
 
 
 
